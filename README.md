@@ -14,32 +14,42 @@ Sample calls:
 
 ### Search for Obama:
 
-- http://api.open.fec.gov/v1/candidates/search?api_key=API_KEY&q=obama
+- http://api.open.fec.gov/v1/candidates/search?api_key=DEMO_KEY&q=obama
 
 
 ### History of Obama's candidate ID: H0IL01087
 
-- http://api.open.fec.gov/v1/candidate/H0IL01087/history?api_key=API_KEY
+- http://api.open.fec.gov/v1/candidate/H0IL01087/history?api_key=DEMO_KEY
 
 
 ### Declared candidates in 2014 cycle who have raised at least $5,000
 
-http://api.open.fec.gov/v1/candidates?api_key=API_KEY&cycle=2014&candidate_status=C
+http://api.open.fec.gov/v1/candidates?api_key=DEMO_KEY&cycle=2014&candidate_status=C
 
 
 ### Candidate principal committees
 
-http://api.open.fec.gov/v1/candidate/H0IL01087/committees?api_key=API_KEY&cycle=2000&designation=P
+http://api.open.fec.gov/v1/candidate/H0IL01087/committees?api_key=DEMO_KEY&cycle=2000&designation=P
 
 ### Candidate principal, House committees
 
-http://api.open.fec.gov/v1/candidate/H0IL01087/committees?api_key=API_KEY&cycle=2000&committee_type=H&designation=P
+http://api.open.fec.gov/v1/candidate/H0IL01087/committees?api_key=DEMO_KEY&cycle=2000&committee_type=H&designation=P
 
 
 ### Committee totals (all cycles)
 
-http://api.open.fec.gov/v1/committee/C00347583/totals?api_key=API_KEY
+http://api.open.fec.gov/v1/committee/C00347583/totals?api_key=DEMO_KEY
 
 ### Committee reports
 
-http://api.open.fec.gov/v1/committee/C00347583/reports?api_key=API_KEY
+http://api.open.fec.gov/v1/committee/C00347583/reports?api_key=DEMO_KEY
+
+
+### Candidate committees history
+
+https://api.open.fec.gov/v1/candidate/S4VT00033/committees/history?api_key=DEMO_KEY&per_page=100
+
+(Principal)
+
+https://api.open.fec.gov/v1/candidate/S4VT00033/committees/history?api_key=DEMO_KEY&per_page=100&designation=P
+
