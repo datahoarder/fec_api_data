@@ -1,0 +1,41 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "count": 1,
+    "pages": 1
+  },
+  "results": [
+    {
+      "party": "DEM",
+      "candidate_id": "H0IL01087",
+      "candidate_inactive": null,
+      "district": "01",
+      "address_street_2": null,
+      "expire_date": null,
+      "address_city": "CHICAGO",
+      "office_full": "House",
+      "incumbent_challenge": null,
+      "load_date": "2015-05-11T12:15:43+00:00",
+      "candidate_status": "P",
+      "election_years": [
+        2000
+      ],
+      "party_full": "Democratic Party",
+      "cycles": [
+        2000
+      ],
+      "two_year_period": 2000,
+      "address_state": "IL",
+      "candidate_status_full": "Statutory candidate in a prior cycle",
+      "address_street_1": "5450-1 S EAST VIEW PARK",
+      "name": "OBAMA, BARACK H",
+      "form_type": "F2Z",
+      "state": "IL",
+      "address_zip": "60615",
+      "incumbent_challenge_full": "Unknown",
+      "office": "H"
+    }
+  ],
+  "api_version": "1.0"
+}

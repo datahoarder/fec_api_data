@@ -1,0 +1,189 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "count": 3,
+    "pages": 1
+  },
+  "results": [
+    {
+      "party": "DEM",
+      "election_years": [
+        2000
+      ],
+      "party_full": "Democratic Party",
+      "principal_committees": [
+        {
+          "committee_type_full": "House",
+          "organization_type_full": null,
+          "last_file_date": "2004-10-13T00:00:00+00:00",
+          "cycles": [
+            2000,
+            2002,
+            2004
+          ],
+          "committee_id": "C00347583",
+          "party": "DEM",
+          "name": "OBAMA FOR CONGRESS 2000",
+          "expire_date": null,
+          "designation": "P",
+          "designation_full": "Principal campaign committee",
+          "first_file_date": null,
+          "organization_type": null,
+          "candidate_ids": [
+            "H0IL01087"
+          ],
+          "party_full": "Democratic Party",
+          "committee_type": "H",
+          "treasurer_name": "LIONEL BOLIN",
+          "state": "IL"
+        }
+      ],
+      "active_through": 2000,
+      "district": "01",
+      "name": "OBAMA, BARACK H",
+      "candidate_status_full": "Statutory candidate in a prior cycle",
+      "office_full": "House",
+      "incumbent_challenge": null,
+      "candidate_status": "P",
+      "state": "IL",
+      "candidate_id": "H0IL01087",
+      "incumbent_challenge_full": "Unknown",
+      "office": "H",
+      "cycles": [
+        2000
+      ]
+    },
+    {
+      "party": "DEM",
+      "election_years": [
+        2008,
+        2012
+      ],
+      "party_full": "Democratic Party",
+      "principal_committees": [
+        {
+          "committee_type_full": "Presidential",
+          "organization_type_full": null,
+          "last_file_date": "2013-01-31T00:00:00+00:00",
+          "cycles": [
+            2008,
+            2010,
+            2012,
+            2014,
+            2016
+          ],
+          "committee_id": "C00431445",
+          "party": "DEM",
+          "name": "OBAMA FOR AMERICA",
+          "expire_date": "2015-05-11T00:00:00+00:00",
+          "designation": "P",
+          "designation_full": "Principal campaign committee",
+          "first_file_date": "2007-01-16T00:00:00+00:00",
+          "organization_type": null,
+          "candidate_ids": [
+            "P80003338"
+          ],
+          "party_full": "Democratic Party",
+          "committee_type": "P",
+          "treasurer_name": "NESBITT, MARTIN H",
+          "state": "IL"
+        }
+      ],
+      "active_through": 2012,
+      "district": null,
+      "name": "OBAMA, BARACK",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "President",
+      "incumbent_challenge": "I",
+      "candidate_status": "C",
+      "state": "US",
+      "candidate_id": "P80003338",
+      "incumbent_challenge_full": "Incumbent",
+      "office": "P",
+      "cycles": [
+        2008,
+        2010,
+        2012
+      ]
+    },
+    {
+      "party": "DEM",
+      "election_years": [
+        2004,
+        2010
+      ],
+      "party_full": "Democratic Party",
+      "principal_committees": [
+        {
+          "committee_type_full": "Senate",
+          "organization_type_full": null,
+          "last_file_date": "2009-10-19T00:00:00+00:00",
+          "cycles": [
+            2006,
+            2008,
+            2010
+          ],
+          "committee_id": "C00411934",
+          "party": "DEM",
+          "name": "OBAMA 2010 INC",
+          "expire_date": "2015-05-11T00:00:00+00:00",
+          "designation": "P",
+          "designation_full": "Principal campaign committee",
+          "first_file_date": "2005-05-25T00:00:00+00:00",
+          "organization_type": null,
+          "candidate_ids": [
+            "S4IL00180"
+          ],
+          "party_full": "Democratic Party",
+          "committee_type": "S",
+          "treasurer_name": "HARVEY S WINEBERG",
+          "state": "IL"
+        },
+        {
+          "committee_type_full": "Senate",
+          "organization_type_full": null,
+          "last_file_date": "2005-08-05T00:00:00+00:00",
+          "cycles": [
+            2002,
+            2004,
+            2006
+          ],
+          "committee_id": "C00381442",
+          "party": "DEM",
+          "name": "OBAMA FOR ILLINOIS INC",
+          "expire_date": null,
+          "designation": "P",
+          "designation_full": "Principal campaign committee",
+          "first_file_date": "2002-08-22T00:00:00+00:00",
+          "organization_type": null,
+          "candidate_ids": [
+            "S4IL00180"
+          ],
+          "party_full": "Democratic Party",
+          "committee_type": "S",
+          "treasurer_name": "HARVEY S. WINEBERG",
+          "state": "IL"
+        }
+      ],
+      "active_through": 2010,
+      "district": null,
+      "name": "OBAMA, BARACK",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "Senate",
+      "incumbent_challenge": "I",
+      "candidate_status": "C",
+      "state": "IL",
+      "candidate_id": "S4IL00180",
+      "incumbent_challenge_full": "Incumbent",
+      "office": "S",
+      "cycles": [
+        2004,
+        2006,
+        2008,
+        2010
+      ]
+    }
+  ],
+  "api_version": "1.0"
+}

@@ -1,0 +1,473 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "count": 1523,
+    "pages": 77
+  },
+  "results": [
+    {
+      "party": "REP",
+      "election_years": [
+        2014
+      ],
+      "party_full": "Republican Party",
+      "cycles": [
+        2014
+      ],
+      "active_through": 2014,
+      "district": null,
+      "name": "ABELER, JAMES J",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "Senate",
+      "incumbent_challenge": "C",
+      "candidate_status": "C",
+      "state": "MN",
+      "candidate_id": "S4MN00353",
+      "incumbent_challenge_full": "Challenger",
+      "office": "S"
+    },
+    {
+      "party": "DEM",
+      "election_years": [
+        2014
+      ],
+      "party_full": "Democratic Party",
+      "cycles": [
+        2014
+      ],
+      "active_through": 2014,
+      "district": null,
+      "name": "ABLES, MURIEL WAYNE",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "Senate",
+      "incumbent_challenge": "C",
+      "candidate_status": "C",
+      "state": "LA",
+      "candidate_id": "S4LA00156",
+      "incumbent_challenge_full": "Challenger",
+      "office": "S"
+    },
+    {
+      "party": "REP",
+      "election_years": [
+        2014,
+        2016
+      ],
+      "party_full": "Republican Party",
+      "cycles": [
+        2014,
+        2016
+      ],
+      "active_through": 2016,
+      "district": "05",
+      "name": "ABRAHAM, RALPH LEE DR. JR.",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "House",
+      "incumbent_challenge": "I",
+      "candidate_status": "C",
+      "state": "LA",
+      "candidate_id": "H4LA05221",
+      "incumbent_challenge_full": "Incumbent",
+      "office": "H"
+    },
+    {
+      "party": "DEM",
+      "election_years": [
+        2014
+      ],
+      "party_full": "Democratic Party",
+      "cycles": [
+        2014
+      ],
+      "active_through": 2014,
+      "district": "04",
+      "name": "ABRAHAMS, KEVAN",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "House",
+      "incumbent_challenge": "O",
+      "candidate_status": "C",
+      "state": "NY",
+      "candidate_id": "H4NY04067",
+      "incumbent_challenge_full": "Open seat",
+      "office": "H"
+    },
+    {
+      "party": "DEM",
+      "election_years": [
+        2008,
+        2014
+      ],
+      "party_full": "Democratic Party",
+      "cycles": [
+        2008,
+        2010,
+        2012,
+        2014
+      ],
+      "active_through": 2014,
+      "district": "03",
+      "name": "ADAME, MARSHALL RICHARD",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "House",
+      "incumbent_challenge": "C",
+      "candidate_status": "C",
+      "state": "NC",
+      "candidate_id": "H8NC03043",
+      "incumbent_challenge_full": "Challenger",
+      "office": "H"
+    },
+    {
+      "party": "DEM",
+      "election_years": [
+        2014,
+        2016
+      ],
+      "party_full": "Democratic Party",
+      "cycles": [
+        2014,
+        2016
+      ],
+      "active_through": 2016,
+      "district": "12",
+      "name": "ADAMS, ALMA SHEALEY",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "House",
+      "incumbent_challenge": "I",
+      "candidate_status": "C",
+      "state": "NC",
+      "candidate_id": "H4NC12100",
+      "incumbent_challenge_full": "Incumbent",
+      "office": "H"
+    },
+    {
+      "party": "DEM",
+      "election_years": [
+        2014
+      ],
+      "party_full": "Democratic Party",
+      "cycles": [
+        2014
+      ],
+      "active_through": 2014,
+      "district": "06",
+      "name": "ADAMS, DANIELLE",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "House",
+      "incumbent_challenge": "O",
+      "candidate_status": "C",
+      "state": "NC",
+      "candidate_id": "H4NC06078",
+      "incumbent_challenge_full": "Open seat",
+      "office": "H"
+    },
+    {
+      "party": "DEM",
+      "election_years": [
+        2014
+      ],
+      "party_full": "Democratic Party",
+      "cycles": [
+        2014
+      ],
+      "active_through": 2014,
+      "district": null,
+      "name": "ADAMS, DIRK STANDLEY",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "Senate",
+      "incumbent_challenge": "C",
+      "candidate_status": "C",
+      "state": "MT",
+      "candidate_id": "S4MT00100",
+      "incumbent_challenge_full": "Challenger",
+      "office": "S"
+    },
+    {
+      "party": "REP",
+      "election_years": [
+        2010,
+        2012
+      ],
+      "party_full": "Republican Party",
+      "cycles": [
+        2010,
+        2012,
+        2014,
+        2016
+      ],
+      "active_through": 2012,
+      "district": "07",
+      "name": "ADAMS, SANDY",
+      "candidate_status_full": null,
+      "office_full": "House",
+      "incumbent_challenge": null,
+      "candidate_status": "C",
+      "state": "FL",
+      "candidate_id": "H0FL24049",
+      "incumbent_challenge_full": "Unknown",
+      "office": "H"
+    },
+    {
+      "party": "REP",
+      "election_years": [
+        2014
+      ],
+      "party_full": "Republican Party",
+      "cycles": [
+        2014
+      ],
+      "active_through": 2014,
+      "district": "41",
+      "name": "ADAMS, STEVE",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "House",
+      "incumbent_challenge": "C",
+      "candidate_status": "C",
+      "state": "CA",
+      "candidate_id": "H4CA41120",
+      "incumbent_challenge_full": "Challenger",
+      "office": "H"
+    },
+    {
+      "party": "DEM",
+      "election_years": [
+        2014
+      ],
+      "party_full": "Democratic Party",
+      "cycles": [
+        2014
+      ],
+      "active_through": 2014,
+      "district": null,
+      "name": "ADAMS, TERRY GLEN JR",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "Senate",
+      "incumbent_challenge": "C",
+      "candidate_status": "C",
+      "state": "TN",
+      "candidate_id": "S4TN00328",
+      "incumbent_challenge_full": "Challenger",
+      "office": "S"
+    },
+    {
+      "party": "DEM",
+      "election_years": [
+        2014
+      ],
+      "party_full": "Democratic Party",
+      "cycles": [
+        2014
+      ],
+      "active_through": 2014,
+      "district": "05",
+      "name": "ADAMS, THOMAS A",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "House",
+      "incumbent_challenge": "C",
+      "candidate_status": "C",
+      "state": "SC",
+      "candidate_id": "H4SC05058",
+      "incumbent_challenge_full": "Challenger",
+      "office": "H"
+    },
+    {
+      "party": "REP",
+      "election_years": [
+        2010,
+        2014
+      ],
+      "party_full": "Republican Party",
+      "cycles": [
+        2010,
+        2012,
+        2014
+      ],
+      "active_through": 2014,
+      "district": "13",
+      "name": "ADCOCK, CARSON DEE",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "House",
+      "incumbent_challenge": "O",
+      "candidate_status": "C",
+      "state": "PA",
+      "candidate_id": "H0PA13080",
+      "incumbent_challenge_full": "Open seat",
+      "office": "H"
+    },
+    {
+      "party": "REP",
+      "election_years": [
+        2014
+      ],
+      "party_full": "Republican Party",
+      "cycles": [
+        2014
+      ],
+      "active_through": 2014,
+      "district": null,
+      "name": "ADDIVINOLA, FRANK J JR",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "Senate",
+      "incumbent_challenge": "C",
+      "candidate_status": "C",
+      "state": "MA",
+      "candidate_id": "S4MA00242",
+      "incumbent_challenge_full": "Challenger",
+      "office": "S"
+    },
+    {
+      "party": "REP",
+      "election_years": [
+        1996,
+        1998,
+        2000,
+        2002,
+        2004,
+        2006,
+        2008,
+        2010,
+        2012,
+        2014,
+        2016
+      ],
+      "party_full": "Republican Party",
+      "cycles": [
+        1996,
+        1998,
+        2000,
+        2002,
+        2004,
+        2006,
+        2008,
+        2010,
+        2012,
+        2014,
+        2016
+      ],
+      "active_through": 2016,
+      "district": "04",
+      "name": "ADERHOLT, ROBERT BROWN",
+      "candidate_status_full": null,
+      "office_full": "House",
+      "incumbent_challenge": "I",
+      "candidate_status": "C",
+      "state": "AL",
+      "candidate_id": "H6AL04098",
+      "incumbent_challenge_full": "Incumbent",
+      "office": "H"
+    },
+    {
+      "party": "REP",
+      "election_years": [
+        2012,
+        2016
+      ],
+      "party_full": "Republican Party",
+      "cycles": [
+        2012,
+        2014,
+        2016
+      ],
+      "active_through": 2016,
+      "district": null,
+      "name": "ADESHINA, YINKA ABOSEDE",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "President",
+      "incumbent_challenge": "O",
+      "candidate_status": "C",
+      "state": "US",
+      "candidate_id": "P60004793",
+      "incumbent_challenge_full": "Open seat",
+      "office": "P"
+    },
+    {
+      "party": "DEM",
+      "election_years": [
+        2012,
+        2014,
+        2016
+      ],
+      "party_full": "Democratic Party",
+      "cycles": [
+        2012,
+        2014,
+        2016
+      ],
+      "active_through": 2016,
+      "district": "31",
+      "name": "AGUILAR, PETE",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "House",
+      "incumbent_challenge": "I",
+      "candidate_status": "C",
+      "state": "CA",
+      "candidate_id": "H2CA31125",
+      "incumbent_challenge_full": "Incumbent",
+      "office": "H"
+    },
+    {
+      "party": "DEM",
+      "election_years": [
+        2014
+      ],
+      "party_full": "Democratic Party",
+      "cycles": [
+        2014
+      ],
+      "active_through": 2014,
+      "district": "02",
+      "name": "AIKEN, CLAYTON CLAY",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "House",
+      "incumbent_challenge": "C",
+      "candidate_status": "C",
+      "state": "NC",
+      "candidate_id": "H4NC02127",
+      "incumbent_challenge_full": "Challenger",
+      "office": "H"
+    },
+    {
+      "party": "DEM",
+      "election_years": [
+        2014
+      ],
+      "party_full": "Democratic Party",
+      "cycles": [
+        2014
+      ],
+      "active_through": 2014,
+      "district": null,
+      "name": "ALAMEEL, DAVID M",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "Senate",
+      "incumbent_challenge": "C",
+      "candidate_status": "C",
+      "state": "TX",
+      "candidate_id": "S4TX00516",
+      "incumbent_challenge_full": "Challenger",
+      "office": "S"
+    },
+    {
+      "party": "REP",
+      "election_years": [
+        2014
+      ],
+      "party_full": "Republican Party",
+      "cycles": [
+        2014
+      ],
+      "active_through": 2014,
+      "district": "32",
+      "name": "ALAS, ARTURO E III",
+      "candidate_status_full": "Statutory candidate",
+      "office_full": "House",
+      "incumbent_challenge": "C",
+      "candidate_status": "C",
+      "state": "CA",
+      "candidate_id": "H4CA32103",
+      "incumbent_challenge_full": "Challenger",
+      "office": "H"
+    }
+  ],
+  "api_version": "1.0"
+}
